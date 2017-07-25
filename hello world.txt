@@ -1,2 +1,0 @@
-system.out.print("hello world");
-int i = 5;
